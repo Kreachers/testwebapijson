@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test web api json</string>
+    <string name="pick_your_currency">Pick your currency.</string>
+</resources>
